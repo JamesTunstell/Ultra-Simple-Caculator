@@ -28,6 +28,7 @@ public class MyActivity extends ActionBarActivity {
     public void onClick(View v)
     {
 
+        
         EditText n1 = (EditText)findViewById(R.id.tfOperand1);
         EditText n2 = (EditText)findViewById(R.id.tfOperand2);
 
